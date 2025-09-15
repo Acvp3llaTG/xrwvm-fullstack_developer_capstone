@@ -1,3 +1,13 @@
 # IBM Fullstack Developer Capstone
 
-- A
+- JavaScript 
+- Python
+- Flask
+- SQL Alchemy
+- Express
+- NodeJs
+- React
+- HTML
+- CSS
+- Docker
+  
