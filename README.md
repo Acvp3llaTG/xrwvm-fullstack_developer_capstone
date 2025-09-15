@@ -9,5 +9,6 @@
 - React
 - HTML
 - CSS
+- SQL
 - Docker
   
